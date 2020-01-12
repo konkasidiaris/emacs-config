@@ -1,0 +1,6 @@
+#+STARTUP: showall
+
+** What is this repo?
+- This repo is a version controlled configuration file for my emacs editor
+** Why you use org instead of md or markdown/kramdown 
+- Testing my org mode skills mostly
